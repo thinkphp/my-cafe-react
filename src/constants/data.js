@@ -1,5 +1,3 @@
-import images from "./images";
-
 const coffee = [
   {
     title: "Coffee Latte",
