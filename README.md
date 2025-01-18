@@ -1,4 +1,4 @@
-# Cafe Web Landing Page
+# Cafe React
 
 This is a self-created project. Using React.js
 
